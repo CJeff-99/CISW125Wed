@@ -41,7 +41,7 @@ print(division)
 # Now, I'd like you to make two variables that contain your first and last name
 # After you've made the variables, find a way to join the two strings to print your full name. This is string concatenation.
 # Think of it as "adding" your variables together.
-fname= "Connor"
+fname= "Connor "
 lname="Jeff"
 full_name=fname+lname
 print(full_name)
@@ -53,5 +53,8 @@ print(multiplication)
 
 # Lastly, do something of your own choice. Anything that involves variables and expressions is allowed here.
 # If you're stumped on ideas, just try and make an expression that converts Celsius to Fahrenheit or vice versa.
+celcius=0
+farenheit=((celcius*1.8)+32)
+print(farenheit)
 
 # Upload this to Canvas under the Variable and Expressions Lab assignment.
