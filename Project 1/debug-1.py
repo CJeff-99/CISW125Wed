@@ -4,10 +4,12 @@
 # This program should add three numbers together.
 
 total = 0
-num1 = input("What's the first number? >")
+num1 = int(input("What's the first number? >"))
 total = num1
-num2 = input("What's the second number? >")
+num2 = int(input("What's the second number? >"))
 total = num2
-num3 = input("What's the third number? >")
-total = num3
+num3 = int(input("What's the third number? >"))
+total = num3+num2+num1
 print(f"Total is: {total}")
+
+#converted the text to interger before adding together 
