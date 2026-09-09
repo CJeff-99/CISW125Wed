@@ -56,3 +56,6 @@ print(fruits[0:2]) #this prints the first two items
 fruits.append("lemon")
 print(fruits)
 
+print(5**5)
+
+
