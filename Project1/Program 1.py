@@ -1,0 +1,6 @@
+first_name= input("What is your first name?: ")
+last_name= input(f"What is your last name {first_name}?: ")
+print(f"Your first name is: {len(first_name)} characters long.")
+print(f"Your last name is: {len(last_name)} characters long.")
+print(f"Your first name starts with: {first_name[0]}")
+print(f"Your last name starts with: {last_name[0]}")
