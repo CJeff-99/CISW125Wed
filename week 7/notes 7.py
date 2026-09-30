@@ -1,10 +1,10 @@
-# # # # # What is a Look
+#  What is a Look
 # # # # # A loop repeats code
 
 # # # # #repeat this loop 3 times
-# # # # for number in range(5):
-# # # #     #Print Hello each time the loops runs
-# # # #     print("Hello")
+# for number in range(5):
+#     #Print Hello each time the loops runs
+#     print("Hello")
 
 
 # # # #While Loops
@@ -66,10 +66,10 @@
 
 # #Looping through a string 
 # #sore a name inside the string
-# name="Jogin"
+#name="Jogin"
 # #Take one character from the string at a time 
-# for letter in name:
-#     print(letter)
+#for letter in name:
+#    print(letter)
 # #This works very similar to how we loop through a list
 
 
@@ -97,18 +97,18 @@
 #Use a while loop when repetition depends on a condition 
 
 #Keep looking while answer is not yes
-while answer !="Yes":
-    #Ask the user again
-    answer=input("Enter yes:")
+# while answer !="Yes":
+#     #Ask the user again
+#     answer=input("Enter yes:")
 
 # use a for loop when working through items
 #Go through each item in the list
-item=["apples", "oranges", "grapes"]
-for item in items:
-    #print the current item
-    print(item)
+# item=["apples", "oranges", "grapes"]
+# for item in items:
+#     #print the current item
+#     print(item)
 
-#use FOR with Rangew() when woring through numbers
-for number in range(1,11):
-    #Print the current number
-    print(number)
+# #use FOR with Rangew() when woring through numbers
+# for number in range(1,11):
+#     #Print the current number
+#     print(number)
